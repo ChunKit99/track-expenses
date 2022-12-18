@@ -23,7 +23,7 @@ bot_token = YOUR_BOT_TOKEN
 
 YOUR_BOT_TOKEN should replace the token get from @BotFather telegram.
 
-For more informaton, please refer to This site was built using [Telegram Bots](https://core.telegram.org/bots/tutorial#introduction).
+For more informaton, please refer to this site [Telegram Bots](https://core.telegram.org/bots/tutorial#introduction).
 ## Deployment
 
 To deploy this project run
